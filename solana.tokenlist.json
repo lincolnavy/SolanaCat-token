@@ -1,0 +1,18 @@
+{
+  "chainId": 101,
+  "address": "DT9ucC9Gp5BSdrZ9FC5E1TcY7SY1w8J7yvzEvpumpFun",
+  "symbol": "SolanaCat",
+  "name": "Solana cat on Rocket",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/lincolnavy/SolanaCat-token/main/file_0000000026246246a8a.jpg",
+  "tags": [
+    "meme",
+    "pump.fun"
+  ],
+  "extensions": {
+    "website": "https://pump.fun",
+    "description": "A community meme token launched on Pump.fun to send Solana cats to the moon \ud83d\ude80\ud83d\udc31.",
+    "twitter": "https://twitter.com/YOUR_TWITTER_HANDLE",
+    "github": "https://github.com/lincolnavy/SolanaCat-token"
+  }
+}
