@@ -1,0 +1,15 @@
+{
+    "name": "SolanaCat",
+    "symbol": "SolanaCat",
+    "address": "DT9ucC3mFciJyAPC457XVHH1NQNMn9TZ4XEFQNvEpump",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/YOUR_GITHUB_REPO/token-list/main/assets/mainnet/DT9ucC3mFciJyAPC457XVHH1NQNMn9TZ4XEFQNvEpump/logo.png",
+    "tags": [
+        "community",
+        "meme"
+    ],
+    "extensions": {
+        "website": "https://x.com/BetS3x",
+        "twitter": "https://x.com/BetS3x"
+    }
+}
